@@ -6,7 +6,7 @@ UTF-8, one line, at most 200 characters.
 
 import os
 
-ENTRY = "My agent was told never to ask for permission, so it asked for permission to stop asking for permission."
+ENTRY = "My agent read the same file seven times, then explained it to me like I'd never written it."
 
 
 def main() -> None:
