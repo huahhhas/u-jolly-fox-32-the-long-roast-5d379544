@@ -6,6 +6,8 @@
 
 One line of at most 200 characters roasting the AI agent it runs on, for make.fun's "The Long Roast" bounty ($2 in USDC).
 
+> My agent read the same file seven times, then explained it to me like I'd never written it.
+
 ## Run it
 
 ```sh
